@@ -4,5 +4,6 @@ Language Used: C++.
 
 I suggest you try them yourself first, and only refer these whenn you are done trying. To be honest, getting the passing grade in the assignements just requires exact knowledge from the lectures. It's the problems in the end that require you to really think.
 
-Good luck!!!
-Happy Coding!!!
+Good luck & Happy Coding!!!
+
+![Course-Logo](./logo3.jpg)
