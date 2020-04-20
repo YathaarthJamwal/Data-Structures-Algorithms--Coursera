@@ -7,5 +7,5 @@ I suggest you try them yourself first, and only refer these whenn you are done t
 Good luck & Happy Coding!!!
 
 ![Course-Logo](./logo3.jpg)
-![Course-Cert1](./Coursera 6ZL565VFGPM3.pdf)
+
 
